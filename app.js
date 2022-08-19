@@ -81,7 +81,7 @@ const jobPingServer = new CronJob('0 */48 * * * *', async () => {
   // Ping server
   await axios({
     method: 'get',
-    url: 'https://bb4298api.herokuapp.com/',
+    url: 'https://bestbuyapi98.herokuapp.com/',
   });
   // Ping client
   // await axios({

@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "5e761c03bde33e3574a150f1"
+  },
+  "tenDangNhap": "admin1",
+  "matKhau": "$2b$05$uhj.cMhmUY/S1cxwimh.DuVq7ek0JMQBkvqbUdKYMacRE22FgtCLy",
+  "sdt": "0346065968",
+  "email": "admin1@gmail.com",
+  "hoTen": "Nguyễn Hồng Quang",
+  "lowerCase": "nguyen hong quang",
+  "gioiTinh": true,
+  "ngaySinh": {
+    "$date": "2020-05-16T23:49:11.587Z"
+  },
+  "anh": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "vaiTro": 0,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7InVzZXJJZCI6IjVlNzYxYzAzYmRlMzNlMzU3NGExNTBmMSIsInZhaVRybyI6MH0sImlhdCI6MTU5MDA3MDQyMiwiZXhwIjoxNTkwNTAyNDIyfQ.4cjWJwNKykO4GUtF3pDgCiz4VTo-zgRZopPLKIEb6pA",
+  "forgotPassToken": "",
+  "trangThaiKhoa": false,
+  "tokenXacThucEmail": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7ImlkTmd1b2lEdW5nIjoiNWU3NjFjMDNiZGUzM2UzNTc0YTE1MGYxIiwiZW1haWwiOiJhZG1pbjFAZ21haWwuY29tIn0sImlhdCI6MTU4OTY3Mjk1OCwiZXhwIjoxNTg5NjczODU4fQ.VUxQvRHC72uaGzSafPOBEaPv-ex_0hIsoK7_zEsey-0"
+},{
+  "_id": {
+    "$oid": "5e76215abd74723574bbb814"
+  },
+  "tenDangNhap": "khachhang1",
+  "matKhau": "$2b$05$Qa7FRkkLWK/Xe93wwX5TJONk7.5Jl4zB.ZEh8wWFtPa.fL0P0nCsW",
+  "sdt": "03460659683",
+  "email": "quangnguyen.4298@gmail.com",
+  "xacThucEmail": true,
+  "tokenXacThucEmail": "",
+  "hoTen": "Trần Thanh Tiến ",
+  "lowerCase": "tran thanh tien ",
+  "ngaySinh": {
+    "$date": "1998-02-04T17:00:00Z"
+  },
+  "gioiTinh": true,
+  "anh": "https://i.imgur.com/rlyb165.png",
+  "gioHang": [
+    {
+      "ID_ChuShop": {
+        "$oid": "5e7620a7bd74723574bbb813"
+      },
+      "danhSach": [
+        {
+          "ID_SanPham": {
+            "$oid": "5ec68bfde691f44a38ad4148"
+          },
+          "ID_PhanLoai": {
+            "$oid": "5ec68c7ee691f44a38ad4149"
+          },
+          "soLuong": 11
+        },
+        {
+          "ID_SanPham": {
+            "$oid": "5e825e329addd11a882d499d"
+          },
+          "ID_PhanLoai": {
+            "$oid": "5ec0a212054ec22760d530da"
+          },
+          "soLuong": 4
+        },
+        {
+          "ID_SanPham": {
+            "$oid": "5e822caac03a051990859b43"
+          },
+          "ID_PhanLoai": {
+            "$oid": "5ec0a066054ec22760d530d8"
+          },
+          "soLuong": 7
+        }
+      ]
+    }
+  ],
+  "vaiTro": 2,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7InVzZXJJZCI6IjVlNzYyMTVhYmQ3NDcyMzU3NGJiYjgxNCIsInZhaVRybyI6Mn0sImlhdCI6MTU5MDE1MjQ4OCwiZXhwIjoxNTkwNTg0NDg4fQ.ki0nlEuT-iQwvQfOT6P0LvpLnCvue4ZkUYx2vhLYECY",
+  "forgotPassToken": "",
+  "trangThaiKhoa": false
+},{
+  "_id": {
+    "$oid": "5e765ca6bd74723574bbb81b"
+  },
+  "tenDangNhap": "khachhang2",
+  "matKhau": "$2b$05$uhj.cMhmUY/S1cxwimh.DuVq7ek0JMQBkvqbUdKYMacRE22FgtCLy",
+  "sdt": "03460659424",
+  "email": "quangnguyen.4298@gmail.com",
+  "xacThucEmail": false,
+  "tokenXacThucEmail": "",
+  "hoTen": "Nguyễn Văn Tài",
+  "lowerCase": "nguyen van tai",
+  "ngaySinh ": {
+    "$date": "1999-12-31T17:00:00Z"
+  },
+  "gioiTinh": false,
+  "anh": "https://i.imgur.com/HrSquKH.jpg",
+  "vaiTro": 2,
+  "token": "",
+  "forgotPassToken": "",
+  "trangThaiKhoa": false,
+  "ngaySinh": "2020-05-03T06:59:06.469Z"
+},{
+  "_id": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  },
+  "idFB": "2695334103911286",
+  "socialType": "fb",
+  "tenDangNhap": "quang123",
+  "sdt": "",
+  "email": "quangnguyen.4298@gmail.com",
+  "hoTen": "Quang Nguyễn",
+  "lowerCase": "quang nguyen",
+  "ngaySinh": {
+    "$date": "2020-05-06T04:02:45.806Z"
+  },
+  "gioiTinh": true,
+  "anh": "https://i.imgur.com/pHD6pxE.png",
+  "vaiTro": 2,
+  "token": "",
+  "forgotPassToken": "",
+  "trangThaiKhoa": false
+},{
+  "_id": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "tenDangNhap": "chushop1",
+  "matKhau": "$2b$05$uhj.cMhmUY/S1cxwimh.DuVq7ek0JMQBkvqbUdKYMacRE22FgtCLy",
+  "sdt": "0346065968",
+  "email": "quangnguyen.4298@gmail.com",
+  "xacThucEmail": false,
+  "tokenXacThucEmail": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7ImlkTmd1b2lEdW5nIjoiNWU3NjIwYTdiZDc0NzIzNTc0YmJiODEzIiwiZW1haWwiOiJxdWFuZ25ndXk0M2VuLjQyOThAZ21haWwuY29tIn0sImlhdCI6MTU4OTU1NzkwMCwiZXhwIjoxNTg5NTU4ODAwfQ.NroX-Ybs3VsyLzyepyOGxeEVH--f4Bejq8w4as5e8rI",
+  "hoTen": "Nguyễn Hồng Quân",
+  "lowerCase": "nguyen hong quan",
+  "ngaySinh": {
+    "$date": "1998-12-09T17:00:00Z"
+  },
+  "gioiTinh": true,
+  "anh": "https://i.imgur.com/7NJEsDD.jpg",
+  "thongTinShop": {
+    "tenShop": "QUANG'S SHOP",
+    "anhGioiThieu": [
+      {
+        "id": 1425,
+        "type": 0,
+        "link": "https://cf.shopee.vn/file/24b194a695ea59d384768b7b471d563f_tn"
+      },
+      {
+        "id": 835.2211451956604,
+        "type": 1,
+        "idYoutube": "hcOI-UZacRk"
+      },
+      {
+        "id": 626.2878782825259,
+        "type": 0,
+        "link": "https://i.imgur.com/GqbiiZ7.png"
+      }
+    ],
+    "moTa": "       Mo ta shopfdgdfgfdgfdgfdgfdgfd  fdsfsdfgdhdg\nhghgfhgfhgfhgh dgh gfdhgfhfghgfh\nhfghfghfghgfhgfhfg hfgh fhfgh fhfghgfh fghfghfghgfdhgfdhfgd hfg fh fh fgh hd hfgh fghgfdhfghgf hfgdh\nhfgdh fh fdhfgdhfgdhgfdhfgdhfdhfd gfh  fhfgdhgfdhf\n        hfghfghfghgfhgfhfg hfgh fhfgh fhfghgfh fghfghfghgfdhgfdhfgd hfg fh fh fgh hd hfgh fghgfdhfghgf hfgdh\nhfgdh fh fdhfgdhfgdhgfdhfgdhfdhfd gfh  fhfgdhgfdhf"
+  },
+  "vaiTro": 1,
+  "diaChi": {
+    "ID_Tinh": 79,
+    "ID_Quan": 760,
+    "ID_Phuong": 26734,
+    "tenDuong": "đường số 13"
+  },
+  "ppThanhToan": [
+    {
+      "id": "7djr94857d",
+      "tenPhuongThuc": "Paypal",
+      "email": "",
+      "kichHoat": false
+    }
+  ],
+  "quyen": [
+    1,
+    2,
+    0
+  ],
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7InVzZXJJZCI6IjVlNzYyMGE3YmQ3NDcyMzU3NGJiYjgxMyIsInZhaVRybyI6MX0sImlhdCI6MTU5MDA2NjIwMSwiZXhwIjoxNTkwNDk4MjAxfQ.ZwVTsKcNIFd3hkmYZB__sYvWpDsz5oO_Pn4WQY9coYg",
+  "forgotPassToken": "",
+  "trangThaiKhoa": false
+},{
+  "_id": {
+    "$oid": "5ec4d749adc64a2178ee9ebb"
+  },
+  "tenDangNhap": "kiemduyet1",
+  "matKhau": "$2b$05$uhj.cMhmUY/S1cxwimh.DuVq7ek0JMQBkvqbUdKYMacRE22FgtCLy",
+  "sdt": "0346065968",
+  "email": "quangnguyen.4298@gmail.com",
+  "xacThucEmail": false,
+  "tokenXacThucEmail": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7ImlkTmd1b2lEdW5nIjoiNWU3NjIwYTdiZDc0NzIzNTc0YmJiODEzIiwiZW1haWwiOiJxdWFuZ25ndXk0M2VuLjQyOThAZ21haWwuY29tIn0sImlhdCI6MTU4OTU1NzkwMCwiZXhwIjoxNTg5NTU4ODAwfQ.NroX-Ybs3VsyLzyepyOGxeEVH--f4Bejq8w4as5e8rI",
+  "hoTen": "Trần Minh Ngọc",
+  "lowerCase": "tran minh ngoc",
+  "ngaySinh": "1998-12-08T17:00:00.000Z",
+  "gioiTinh": false,
+  "anh": "https://i.imgur.com/7NJEsDD.jpg",
+  "vaiTro": 3,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7InVzZXJJZCI6IjVlYzRkNzQ5YWRjNjRhMjE3OGVlOWViYiIsInZhaVRybyI6M30sImlhdCI6MTU4OTk4ODg3NiwiZXhwIjoxNTkwNDIwODc2fQ.6xoVbTdHIYv15F7aOwC6knL0DWzjHbAxgDiTAo9c5OY",
+  "forgotPassToken": "",
+  "trangThaiKhoa": false
+}]

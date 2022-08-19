@@ -1,0 +1,15 @@
+Backup từ Mongo Atlas về Local ============================================================
+- Bật CMD với quyền Admin
+- Cd vào C:\Program Files\MongoDB\Server\4.2\bin
+- Chạy lệnh: 'mongodump --uri=mongodb+srv://bb4298:quangdeptrai01@cluster0-eossp.mongodb.net'
+=> Db được lưu
+- Chạy lệnh: 'mongorestore'
+=>Db được khôi phục trên local
+
+
+
+Backup từ Local lên Mongo Atlas ===========================================================
+- Bật CMD với quyền Admin
+- Cd vào C:\Program Files\MongoDB\Server\4.2\bin
+- Chạy lệnh: 'mongorestore --uri=mongodb+srv://bb4298:quangdeptrai01@cluster0-eossp.mongodb.net'
+=>DB được khôi phục trên Mongo Atlas

@@ -1,0 +1,2 @@
+openssl genrsa -out test-ssl.local.key 2048
+x509 -req -in test-ssl.local.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out test-ssl.local.crt -days\ 1825 -sha256 -extfile test-ssl.local.ext

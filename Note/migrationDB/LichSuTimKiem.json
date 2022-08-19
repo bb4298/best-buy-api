@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "5e7710a741d47a49200fcb76"
+  },
+  "tuKhoaTimKiem": "bột giặt",
+  "lowerCase": "bot giat",
+  "luotTimKiem": 10,
+  "updateAt": {
+    "$date": "2020-03-22T09:07:29.219Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e7717d3ad55d54920b474af"
+  }
+},{
+  "_id": {
+    "$oid": "5e771728b367aa1f7c3a152b"
+  },
+  "tuKhoaTimKiem": "máy lạnh",
+  "lowerCase": "may lanh",
+  "luotTimKiem": 8,
+  "updateAt": {
+    "$date": "2020-03-31T22:04:09.166Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e7717d8ad55d54920b474b0"
+  }
+},{
+  "_id": {
+    "$oid": "5e771a2641d47a49200fcb77"
+  },
+  "tuKhoaTimKiem": "điện thoại",
+  "lowerCase": "dien thoai",
+  "luotTimKiem": 9,
+  "updateAt": {
+    "$date": "2020-03-22T09:07:29.219Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e7717d3ad55d54920b474af"
+  }
+},{
+  "_id": {
+    "$oid": "5e833c615138682b8c69f846"
+  },
+  "tuKhoaTimKiem": "Samsung",
+  "lowerCase": "samsung",
+  "luotTimKiem": 10,
+  "updateAt": {
+    "$date": "2020-03-22T09:07:29.219Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e7717d3ad55d54920b474af"
+  }
+},{
+  "_id": {
+    "$oid": "5e8449c45db01224f0493d44"
+  },
+  "tuKhoaTimKiem": "Mỳ Tôm",
+  "lowerCase": "my tom",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T07:59:00.796Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e844a085db01224f0493d45"
+  },
+  "tuKhoaTimKiem": "đông hồ",
+  "lowerCase": "dong ho",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T08:00:08.308Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e844a2c1fcc971a04c0875d"
+  },
+  "tuKhoaTimKiem": "mát kính",
+  "lowerCase": "mat kinh",
+  "luotTimKiem": 2,
+  "updateAt": {
+    "$date": "2020-04-01T08:01:08.741Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e844a4ab6375b1c90d559bf"
+  },
+  "tuKhoaTimKiem": "túi xách",
+  "lowerCase": "tui xach",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T08:01:14.885Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e844a8bb6375b1c90d559c0"
+  },
+  "tuKhoaTimKiem": "kính mát",
+  "lowerCase": "kinh mat",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T08:02:19.754Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e844f0ff7771614bca54589"
+  },
+  "tuKhoaTimKiem": "tu lạnh",
+  "lowerCase": "tu lanh",
+  "luotTimKiem": 8,
+  "updateAt": {
+    "$date": "2020-04-01T08:35:41.341Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5e8450cdf7771614bca5458a"
+  },
+  "tuKhoaTimKiem": "ti vi",
+  "lowerCase": "ti vi",
+  "luotTimKiem": 2,
+  "updateAt": {
+    "$date": "2020-04-01T08:29:14.016Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e8450ecf7771614bca5458b"
+  },
+  "tuKhoaTimKiem": "dien thoai samsung",
+  "lowerCase": "dien thoai samsung",
+  "luotTimKiem": 8,
+  "updateAt": {
+    "$date": "2020-04-01T08:36:05.192Z"
+  },
+  "ID_NguoiDung": null
+},{
+  "_id": {
+    "$oid": "5e847221d1938a0630d9c382"
+  },
+  "tuKhoaTimKiem": "may giat",
+  "lowerCase": "may giat",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T10:51:13.206Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5e848367d1938a0630d9c383"
+  },
+  "tuKhoaTimKiem": "quạt máy",
+  "lowerCase": "quat may",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T12:04:55.557Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5e85093a59452113ac61af74"
+  },
+  "tuKhoaTimKiem": "kẹo ",
+  "lowerCase": "keo",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-01T21:35:54.487Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5e85f0766bf5103f3808e342"
+  },
+  "tuKhoaTimKiem": "con ga",
+  "lowerCase": "con ga",
+  "luotTimKiem": 2,
+  "updateAt": {
+    "$date": "2020-04-02T14:02:33.577Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5e8dc2d07c8fbf13b8102fd3"
+  },
+  "tuKhoaTimKiem": "kinh cuong luc",
+  "lowerCase": "kinh cuong luc",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-08T12:25:52.108Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e8dc2d07c8fbf13b8102fd2"
+  }
+},{
+  "_id": {
+    "$oid": "5e8dc2db7c8fbf13b8102fd5"
+  },
+  "tuKhoaTimKiem": "Keo bac ha",
+  "lowerCase": "keo bac ha",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-08T12:26:03.306Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e8dc2db7c8fbf13b8102fd4"
+  }
+},{
+  "_id": {
+    "$oid": "5e8dc2e87c8fbf13b8102fd7"
+  },
+  "tuKhoaTimKiem": "gucci",
+  "lowerCase": "gucci",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-08T12:26:16.983Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e8dc2e87c8fbf13b8102fd6"
+  }
+},{
+  "_id": {
+    "$oid": "5ea07c6ce0de787cb89ea5b7"
+  },
+  "tuKhoaTimKiem": "điều hòa",
+  "lowerCase": "dieu hoa",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-22T17:18:36.390Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5ea07c6ce0de787cb89ea5b6"
+  }
+},{
+  "_id": {
+    "$oid": "5ea577eaa055351904db29eb"
+  },
+  "tuKhoaTimKiem": "bánh mì",
+  "lowerCase": "banh mi",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-26T12:00:42.320Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5ea577eaa055351904db29ea"
+  }
+},{
+  "_id": {
+    "$oid": "5ea585a3912f263508600750"
+  },
+  "tuKhoaTimKiem": "tủ lạnh",
+  "lowerCase": "tu lanh",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-04-26T12:59:15.307Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5eb2c96402397e1d6050f2d9"
+  },
+  "tuKhoaTimKiem": "gdfgfd",
+  "lowerCase": "gdfgfd",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-06T14:27:48.740Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb2dbdd02397e1d6050f2da"
+  },
+  "tuKhoaTimKiem": "đồ chơi",
+  "lowerCase": "do choi",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-06T15:46:37.303Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb3b30302397e1d6050f2db"
+  },
+  "tuKhoaTimKiem": "dfds",
+  "lowerCase": "dfds",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-07T07:04:35.894Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb3c5414d73e32714bb82d2"
+  },
+  "tuKhoaTimKiem": "gfgfd",
+  "lowerCase": "gfgfd",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-07T08:22:25.014Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb411c40b875f32cc93de07"
+  },
+  "tuKhoaTimKiem": "fsdf",
+  "lowerCase": "fsdf",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-07T13:48:52.876Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb42b119690eb06b0fc01c0"
+  },
+  "tuKhoaTimKiem": "g",
+  "lowerCase": "g",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-07T15:36:49.221Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb4587db4b76a2200511c47"
+  },
+  "tuKhoaTimKiem": "h",
+  "lowerCase": "h",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-07T18:50:37.512Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5eb58eb40f388229e0f452d1"
+  },
+  "tuKhoaTimKiem": "hghfg",
+  "lowerCase": "hghfg",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-08T16:54:12.279Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5eb236e502397e1d6050f2d5"
+  }
+},{
+  "_id": {
+    "$oid": "5ec08e7b64a3fb5ca119a9f5"
+  },
+  "tuKhoaTimKiem": "fds",
+  "lowerCase": "fds",
+  "luotTimKiem": 1,
+  "updateAt": {
+    "$date": "2020-05-17T01:08:11.901Z"
+  },
+  "ID_NguoiDung": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+}]

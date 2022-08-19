@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "5e765bacbde33e3574a150fd"
+  },
+  "soSao": 5,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5e765c15bd74723574bbb81a"
+  },
+  "soSao": 3,
+  "noiDung": "Sản phẩm bình thường",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e765ca6bd74723574bbb81b"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e46e671f1e52e078d993"
+  },
+  "soSao": 5,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e471671f1e52e078d994"
+  },
+  "soSao": 5,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e473671f1e52e078d995"
+  },
+  "soSao": 5,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e475671f1e52e078d996"
+  },
+  "soSao": 5,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e477671f1e52e078d997"
+  },
+  "soSao": 5,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e479671f1e52e078d998"
+  },
+  "soSao": 4,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e47a671f1e52e078d999"
+  },
+  "soSao": 3,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e47c671f1e52e078d99a"
+  },
+  "soSao": 2,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+},{
+  "_id": {
+    "$oid": "5ea3e47e671f1e52e078d99b"
+  },
+  "soSao": 1,
+  "noiDung": "Sản phẩm tốt",
+  "ngayDanhGia": {
+    "$date": "2000-12-31T17:00:00Z"
+  },
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  },
+  "ID_KhachHang": {
+    "$oid": "5e76215abd74723574bbb814"
+  }
+}]

@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e767273bde33e3574a1510b"},"diaChi":"quận 12","ghiChu":"ko có gì","maGiamGia":"AFCG","tiLeSale":{"$numberInt":"5"},"tongSoTien":"","trangThai":{"$numberInt":"0"},"ID_ChiTietDonHang":{"$oid":"5e77a84dad55d54920b474b5"},"ID_KhachHang":{"$oid":"5e76728bbde33e3574a1510c"},"ID_ChuGianHang":{"$oid":"5e7676ccbde33e3574a1510f"}}

@@ -1,0 +1,609 @@
+[{
+  "_id": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "tenSanPham": "Bột giặt Omo",
+  "lowerCase": "bot giat omo",
+  "code": "SP-JFKG948575",
+  "gia": 1200,
+  "tiLeSale": 5,
+  "thuongHieu": "Omo",
+  "moTa": "đây là sản phẩm bột giặt",
+  "chiTietSanPham": {
+    "noiSanXuat": "Trung Quốc",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "Túi đựng bột giặt"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế đọ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "anh": [
+    "https://cf.shopee.vn/file/f9e1c40b8fb54ad231286e6015f20ca6",
+    "https://cf.shopee.vn/file/d45d7bebe0087d18728a1f675cca053f",
+    "https://cf.shopee.vn/file/f575bf7a12000234841283199256565a"
+  ],
+  "soSao": 5,
+  "luotBan": 200,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e89ea7ea37c43511cee8a35"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5e820477c03a051990859b41"
+  },
+  "tenSanPham": "Máy giặt Samsung Inverter 8 kg WW80J52G0KW/SV",
+  "lowerCase": "may giat samsung inverter 8 kg ww80j52g0kw/sv",
+  "code": "SP-JFKG9485h47",
+  "gia": 1200000,
+  "tiLeSale": 0,
+  "thuongHieu": "Inverter",
+  "moTa": "Đây là máy giạt Inverter",
+  "chiTietSanPham": {
+    "noiSanXuat": "Trung Quốc",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "Túi đựng bột giặt"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế đọ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "anh": [
+    "https://cf.shopee.vn/file/065e6892b5d3905e57907decdbc38fad",
+    "https://cf.shopee.vn/file/7366cb1ffc1a1225dabbebcb9268fda7",
+    "https://cf.shopee.vn/file/323074b732d8526d48e728fed549eaea",
+    "https://i.imgur.com/OXdzTp6.jpg"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 2,
+  "luotBan": 200,
+  "conHang": false,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e89ea7ea37c43511cee8a35"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5e822c4dc03a051990859b42"
+  },
+  "tenSanPham": "Điện thoại Samsung Galaxy A71 8GB 128GB - Hàng chính Hãng",
+  "lowerCase": "dien thoai samsung galaxy a71 8gb 128gb - hang chinh hang",
+  "code": "SP-JFKG948575",
+  "gia": 1030000,
+  "tiLeSale": 0,
+  "thuongHieu": "Omo",
+  "moTa": "Điện thoại Samsung Galaxy A71 8GB 128GB - Hàng chính Hãng Galaxy A71 Sạc Nhanh Siêu Tốc 25W.Dung lượng pin 4500mAh ấn tượng, kết hợp công nghệ sạc nhanh siêu tốc 25W,chỉ 10 phút sạc có 3h liên lạc, 3h xem phim, 10h nghe nhạc, để bạn trải nghiệm giải trí xuyên suốt. Thông số kỹ thuật: Màn hình:Super AMOLED, 6.7\", Full HD+ Hệ điều hành:Android 10 Camera sau:Chính 64 MP & Phụ 12 MP, 5 MP, 5 MP Camera trước:32 MP CPU:Snapdragon 730 8 nhân RAM:8GB Bộ nhớ trong:128GB Thẻ nhớ:MicroSD,hỗ trợ tối đa 512 GB Thẻ SIM:2Nano SIM,Hỗ trợ 4G Dung lượng pin:\t4500mAh,có sạc nhanh Bộ sản phẩm bao gồm :Hộp,thân máy,sạc,sách HDSD ...",
+  "chiTietSanPham": {
+    "noiSanXuat": "Hàn Quốc",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "ỐP lưng"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế đọ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "anh": [
+    "https://cf.shopee.vn/file/136a4da6d9a9bdddff41d4fcfe42a014",
+    "https://cf.shopee.vn/file/21a6547a66204e79c39220cec18223ad",
+    "https://cf.shopee.vn/file/e9d6bfb29025505095b210452c286527"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 4,
+  "luotBan": 200,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e77a6afad55d54920b474b2"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5e822caac03a051990859b43"
+  },
+  "tenSanPham": "Điều Hòa Không Khí 1HP Asanzo iKOOL S09N66 ",
+  "lowerCase": "dieu hoa khong khi 1hp asanzo ikool s09n66 ",
+  "code": "SP-JFKG948575",
+  "gia": 3500000,
+  "tiLeSale": 0,
+  "thuongHieu": "Omo",
+  "moTa": "*Thông tin chi tiết sản phẩm: Công nghệ Turbo làm lạnh cực nhanh với công suất lớn. Chip xử lí trong máy điều hòa có chức năng lưu trữ thông tin tự động, khi bị ngắt điện đột ngột, máy có thể khởi động lại trạng thái trước khi mất điện. Thiết kế đặc biệt giúp luân chuyển không khí trong phóng, tự động làm mát và làm sạch. Trang bị bộ lọc giúp loại bỏ bụi bẩn, khí độc hại và mùi khó chịu, giúp phòng luôn thoáng mát trong lành. Máy lạnh sẽ tự động tăng thêm 1oC mỗi giờ (trong 2 giờ) khi bậ chế độ ngủ, giúp người dùng thoải mái và giảm mức chi tiêu năng lượng. Trang bị màn hình LED hiển thị thông số dễ dàng giúp người dùng  điều khiển dễ dàng. Đề tránh dòng điện cao đột ngột có thể làm hỏng thiết bị khi khởi động, dòng điện của điều hòa được giới hạn ở mức 45A hoặc ở mức thấp hơn để đảm bảo an toàn. Chức năng tự bù nhiệt độ để đảm bảo nhiệt độ trong phòng luôn ổn định. Thiết kế đơn giản giúp cho việc lắp đặt dễ dàng mà không cần đến thiết bị chuyên nghiệp nào. Vỏ ngoài  dàn nóng được mạ kẽm có khả năng chịu gió và mưa trong thời gian dài mà không bị gỉ sét. Các van dàn nóng đều có nắp bảo vệ giúp ngăn chặn sự xâm nhập của bụi và nước mưa giúp đảm bảo dàn nóng hoạt động ổn định lâu dài.  *Thông tin bảo hành Thời gian bảo hành: 24 tháng Có 3 cách như sau: - Nhắn tin kích hoạt SMS theo cú pháp ASGDK_Số seri máy GỬI 8083 - Trung cập web baohanh.Asanzo.vn, chọn KÍCH HOẠT BẢO HÀNH",
+  "chiTietSanPham": {
+    "noiSanXuat": "Trung Quốc",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "Bình giữ nhiệt"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế đọ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "anh": [
+    "https://cf.shopee.vn/file/4bfdd1698abfdc3e64390afc9f65b82d",
+    "https://cf.shopee.vn/file/cab3ea3dab5a25a1d6b30fbe61ff8621",
+    "https://cf.shopee.vn/file/198f19383cdbaf366f06265518a366fa"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 5,
+  "luotBan": 200,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e89ea7ea37c43511cee8a35"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5e825e2c9addd11a882d499b"
+  },
+  "tenSanPham": "Túi xách nữ kết hợp HARAS VRS073",
+  "lowerCase": "tui xach nu ket hop haras vrs073",
+  "code": "SP-JFKG948575",
+  "gia": 160000,
+  "tiLeSale": 0,
+  "thuongHieu": "Omo",
+  "moTa": "Túi xách nữ kết hợp HARAS VRS073 1. Giới thiệu sản phẩm - Túi xách nữ mang phong cách trẻ trung, thời trang. - Được làm từ chất liệu Da pu chất lượng cao, luôn mềm mại và bền chắc. Do đó, bạn sẽ dễ dàng bảo quản và vệ sinh. 2.Đặc điểm sản phẩm: - Túi xách nữ được thiết kế trẻ trung, quai đeo bền chắc cùng kiểu dáng hình chữ nhật ngang kết hợp tinh tế giữa nét cổ điển và hiện đại, tạo nên sự hài hòa tuyệt đối làm bạn khó có thể từ chối được. - Túi được thiết kế độc đáo với 1 ngăn chính , 1 ngăn phụ phía trước. - Với đường may tỉ mỉ và tinh tế đảm bảo độ bền chắc trong suốt thời gian bạn sử dụng và mang đến cho bạn vẻ đẹp thật cá tính và lịch lãm. - Túi xách nữ với gam màu truyền thống, không chỉ giúp bạn thể hiện phong cách thời trang cực kỳ nam tính và lịch lãm mà còn giúp dễ dàng khi phối chiếc cặp cùng nhiều trang phục như: quần jean, áo thun hay phụ kiện khác để trở nên thật sang trọng và đẳng cấp 3. Thông số sản phẩm: -\tThông tin sản phẩm túi xách nữ • Chất liệu: da PU • Kích thước: 22 X 20 X 13 (DxRxC) • Màu sắc: ĐEN, TRẮNG, NÂU , ĐỎ • Xuất xứ: Việt Nam • Bảo hành/ Loại hình bảo hành: 2 THÁNG 4. Thông tin thương hiệu: HARAS - Thương hiệu Việt Nam được được giới trẻ ưa chuộng và biết đến, chuyên cung cấp các dòng sản phẩm phụ kiện thời trang. Không ngừng phát triển và hoàn thiện, HARAS luôn mong muốn đem đến cho các bạn trẻ sự tự tin khi thể hiện phong cách thời trang riêng biệt, ấn tượng thông qua những sản phẩm chất lượng cao, mẫu mã tinh tế, đa dạng và mang phong cách thời trang quốc tế.....",
+  "chiTietSanPham": {
+    "noiSanXuat": "Trung Quốc",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "Túi đựng bột giặt"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế đọ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "anh": [
+    "https://cf.shopee.vn/file/40e8e20b13c1b4b227eb2b064e1944a5",
+    "https://cf.shopee.vn/file/cbcbae8d8ac0263e65154c8fa7b1cb6f",
+    "https://cf.shopee.vn/file/4c81e65c38cbc99d0ffcdcabb789d23f"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 0,
+  "luotBan": 200,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e8d2d915956162500248fc5"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5e825e2f9addd11a882d499c"
+  },
+  "tenSanPham": "Kinh cường lực Kingkong",
+  "lowerCase": "kinh cuong luc kingkong",
+  "code": "SP-JFKG948575",
+  "gia": 120000,
+  "tiLeSale": 0,
+  "thuongHieu": "Omo",
+  "moTa": "đây là sản phẩm bột giặt",
+  "chiTietSanPham": {
+    "noiSanXuat": "sads",
+    "cheDoBaoHanh": "dsad",
+    "quaTangKem": "sadas"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế độ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "anh": [
+    "https://i.imgur.com/i1yMhgK.jpg",
+    "https://onlinejpgtools.com/images/examples-onlinejpgtools/coffee-resized.jpg",
+    "https://onlinejpgtools.com/images/examples-onlinejpgtools/coffee-resized.jpg"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 5,
+  "luotBan": 200,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": true,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e77a6afad55d54920b474b2"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5e825e329addd11a882d499d"
+  },
+  "tenSanPham": " Đắc nhân tâm (Top 10 cuốn sách hay nhất mọi thời đại)",
+  "lowerCase": " dac nhan tam (top 10 cuon sach hay nhat moi thoi dai)",
+  "code": "SP-JFKG948575",
+  "gia": 450000,
+  "tiLeSale": 0,
+  "thuongHieu": "Omo",
+  "moTa": "Giới thiệu sách: Đắc Nhân Tâm - Được lòng người, là cuốn sách đưa ra các lời khuyên về cách thức ứng xử, cư xử và giao tiếp với mọi người để đạt được thành công trong cuộc sống. Gần 80 năm kể từ khi ra đời, Đắc Nhân Tâm là cuốn sách gối đầu giường của nhiều thế hệ luôn muốn hoàn thiện chính mình để vươn tới một cuộc sống tốt đẹp và thành công. Đắc Nhân Tâm cụ thể và chi tiết với những chỉ dẫn để dẫn đạo người, để gây thiện cảm và dẫn dắt người khác,... những hướng dẫn ấy, qua thời gian, có thể không còn thích hợp trong cuộc sống hiện đại nhưng nếu người đọc có thể cảm và hiểu được những thông điệp tác giả muốn truyền đạt thì việc áp dụng nó vào cuộc sống trở nên dễ dàng và hiệu quả. Đắc Nhân Tâm, từ một cuốn sách, hôm nay đã trở thành một danh từ để chỉ một lối sống mà ở đó con người ta cư xử linh hoạt và thấu tình đạt lý. Lý thuyết muôn thuở vẫn là những quy tắc chết, nhưng Nhân Tâm là sống, là biến đổi. Bạn hãy thử đọc \"Đắc Nhân tâm\" và tự mình chiêm nghiệm những cái đang diễn ra trong đời thực hiện hữu, chắc chắn bạn sẽ có những bài học cho riêng mình. Đắc Nhân Tâm là nghệ thuật thu phục lòng người, là làm cho tất cả mọi người yêu mến mình. \"Đắc nhân tâm\" và cái Tài trong mỗi người chúng ta. \"Đắc Nhân Tâm\" trong ý nghĩa đó cần được thụ đắc bằng sự hiểu rõ bản thân, thành thật với chính mình, hiểu biết và quan tâm đến những người xung quanh để nhìn ra và khơi gợi những tiềm năng ẩn khuất nơi họ, giúp họ phát triển lên một tầm cao mới. Đây chính là nghệ thuật cao nhất về con người và chính là ý nghĩa sâu sắc nhất đúc kết từ những nguyên tắc vàng của Dale Carnegie.Sách đã được chuyển ngữ sang hầu hết các thứ tiếng trên thế giới và có mặt ở hàng trăm quốc gia. Đây là cuốn sách liên tục đứng đầu danh mục sách bán chạy nhất do thời báo NewYork Times bình chọn suốt 10 năm liền. Tác phẩm có sức lan toả vô cùng rộng lớn - dù  bạn đi đến bất cứ đâu, bất kỳ quốc gia nào cũng đều có thể nhìn thấy. Tác phẩm được đánh giá là cuốn sách đầu tiên và hay nhất trong thể loại này, có ảnh hưởng thay đổi cuộc đời đối với hàng triệu người trên thế giới.",
+  "chiTietSanPham": {
+    "noiSanXuat": "Dale Carnegie",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "Kẹp giấy"
+  },
+  "chiTietSP": [
+    {
+      "name": "Nơi sản xuất",
+      "value": "Việt Nam"
+    },
+    {
+      "name": "Chế đọ bảo hành",
+      "value": "12 tháng"
+    },
+    {
+      "name": "Quà tặng kèm",
+      "value": "gấu"
+    }
+  ],
+  "anh": [
+    "https://cf.shopee.vn/file/2348436015220c13807ac67446a17601",
+    "https://cf.shopee.vn/file/c4ae428e51cdcbd5b87954fb0c0cf6b8",
+    "https://cf.shopee.vn/file/b46e03b7d506856b687feb9c464e635c"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 5,
+  "luotBan": 200,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e873feaf438012558663b4b"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebabbac3fe3a72b30e6ba94"
+  },
+  "tenSanPham": "Đồng hồ thể thao kim điện tử nam đen GS GA110",
+  "lowerCase": "dong ho the thao kim dien tu nam den gs ga110",
+  "gia": 1400000,
+  "tiLeSale": 0,
+  "thuongHieu": "GsOCK",
+  "moTa": "Đồng hồ nam GS GA110 mặt đen viền trắng dáng thể thao. Đồng hồ GS GA110 có phiên bản đôi dành cho cả nam và nữ 🕒 Đặc điểm kỹ thuật  ✚ Nhà phân phối: ToyWatch ✚ Model: GA110 ✚ Tình trạng : mới ✚ Đồng hồ : nam ✚ Kích thước mặt:  52mm ✚ Kích thước dây : 17mm ✚ Chất liệu khung đồng hồ: nhưa ✚ Chất liệu kính: Chống xước tốt. ✚ Loại dây đeo: silicon ✚ Chức năng hiển thị: Giờ, Phút, Giây, ngày, tháng ✚ Năng lượng: dùng pin ✚ Khả năng chống nước: chống nước tốt ✚ Bảo hành: 6 tháng  🔈 Đồng hồ ToyWatch cam kết - Cam kết hàng chất lượng mới 100% như hình, không giống đổi trả miễn phí - Bảo hành 6 tháng, sản phẩm lỗi nhà sản xuất vận chuyển bảo hành 1 đổi 1 trong 7 ngày - Nhận hàng mới thanh toán",
+  "chiTietSanPham": {
+    "noiSanXuat": "việt nam",
+    "cheDoBaoHanh": "12 thắng",
+    "quaTangKem": "Miếng chống xước"
+  },
+  "anh": [
+    "https://cf.shopee.vn/file/7d680c021192fce807b2f826ab7685b2",
+    "https://cf.shopee.vn/file/83423c504b37f3daf48e39d6de98a792"
+  ],
+  "kichThuoc": {
+    "nang": 12,
+    "rong": 1,
+    "dai": 2,
+    "cao": 3
+  },
+  "soSao": 5,
+  "luotBan": 0,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e89ea77a37c43511cee8a34"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebe39c04f433a0ad04974c1"
+  },
+  "tenSanPham": "Lò Nướng Điện Đa Năng KONKA",
+  "lowerCase": "lo nuong dien da nang konka",
+  "gia": 1400000,
+  "tiLeSale": 0,
+  "thuongHieu": "KONKA",
+  "moTa": "lò vi sóng",
+  "chiTietSanPham": {
+    "noiSanXuat": "Trung quốc",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "KO"
+  },
+  "anh": [
+    "https://cf.shopee.vn/file/80689172bd07d8a36c832f0270f10cc7",
+    "https://cf.shopee.vn/file/b3843e2d64f307208decae0913d82913",
+    "https://cf.shopee.vn/file/b32152cb24f32f0b9b6ebe670b70bc90"
+  ],
+  "kichThuoc": {
+    "nang": 12,
+    "rong": 12,
+    "dai": 12,
+    "cao": 12
+  },
+  "soSao": 4,
+  "luotBan": 0,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e89ea7ea37c43511cee8a35"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebe3a8f4f433a0ad04974c2"
+  },
+  "tenSanPham": "Mì tôm SamYang đủ vị",
+  "lowerCase": "mi tom samyang du vi",
+  "gia": 25000,
+  "tiLeSale": 0,
+  "thuongHieu": "Samyang",
+  "moTa": "mì tôm ngon",
+  "chiTietSanPham": {
+    "noiSanXuat": "Nhật",
+    "cheDoBaoHanh": "KO",
+    "quaTangKem": "KO"
+  },
+  "anh": [
+    "https://i.imgur.com/0fb0mlp.jpg"
+  ],
+  "kichThuoc": {
+    "nang": 42344,
+    "rong": 2443,
+    "dai": 4,
+    "cao": 24
+  },
+  "soSao": 5,
+  "luotBan": 0,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e80e4bc73617522fcb0050b"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebe9c3e825e7268087ba542"
+  },
+  "tenSanPham": "Bánh milo",
+  "lowerCase": "banh milo",
+  "gia": 100000,
+  "tiLeSale": 5,
+  "thuongHieu": "NESTLE",
+  "moTa": "          Về cơ bản, useRef giống như một \"box\", dùng để lưu các giá trị của một element sử dụng thuộc tính .current. Bạn có thể quen thuộc với ref chủ yếu như một cách để truy cập DOM. Nếu bạn chuyển một đối tượng ref cho React với <div ref = {myRef} />, React sẽ đặt thuộc tính .current của nó tới node DOM tương ứng bất cứ khi nào node đó thay đổi.\n          Tuy nhiên, useRef () hữu ích hơn nhiều so với thuộc tính ref. Nếu bạn đã quen thuộc với Class Component, \n          bạn có thể nhận thấy rằng Fuction Component là component không có khả năng render function. Mọi thứ được định nghĩa trong phần thân của hàm là hàm kết xuất trả về JSX cuối cùng. Điều này có nghĩa là bất cứ khi nào có thay đổi về state thì tất cả các đoạn code trong function component sẽ được thực thi. Điều này chỉ ra rằng nếu chúng ta có một biến đối tượng bên trong function component thì với mỗi render, điều này \n          sẽ được khởi tạo với giá trị mặc định. Chúng ta hãy chứng minh điều này. Chúng ta có một biến đếm tổng mỗi lần component đc render. Đầu tiên chúng tôi sẽ viết một cái gì đó như dưới đây :",
+  "chiTietSanPham": {
+    "noiSanXuat": "USA",
+    "cheDoBaoHanh": "KO",
+    "quaTangKem": "KO"
+  },
+  "anh": [
+    "https://i.imgur.com/qFf7smV.jpg"
+  ],
+  "kichThuoc": {
+    "nang": 765,
+    "rong": 4353,
+    "dai": 4543,
+    "cao": 656
+  },
+  "soSao": 4,
+  "luotBan": 0,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e80e4bc73617522fcb0050b"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec0a40f054ec22760d530db"
+  },
+  "tenSanPham": "Chuột DAREU LM115G Queen Pink / Sparrow Black không dây",
+  "lowerCase": "chuot dareu lm115g queen pink / sparrow black khong day",
+  "gia": 130000,
+  "tiLeSale": 5,
+  "thuongHieu": "DAREU",
+  "moTa": "* Thông tin sản phẩm:\n- Tên sản phẩm: Chuột DAREU LM115G Queen Pink / Sparrow Black không dây\n- Mã sản phẩm LM115G\n- Màu sắc: Queen Pink, Sparrow Black\n- Thương hiệu: DAREU\n- Sản xuất: Trung Quốc\n- Phân phối: Công ty Cổ phần tin học Mai Hoàng\n- Bảo hành: 24 tháng (Khách hàng có thể check serial bảo hành tại website Mai Hoàng)\n- Dùng cho: Là dòng chuột không dây phổ thông, hợp lý dành cho văn phòng, game đơn giản... (sản phẩm có 2 màu màu hồng nhạt rất nữ tính và màu đen phong cách). Mong rằng các bạn sẽ ủng hộ Shop, ủng hộ Mai Hoàng nhé!!!\n\n* Thông số kỹ thuật:\n- LM115G\n- Sensor: PAW3512\n- Sóng 2.4G\n- DPI: 800-1200-1600\n- Kích thước: 107.5*59.15*38.29mm\n- Pin: 01* AA\n- Trọng lượng: 90g +/- 10g",
+  "chiTietSanPham": {
+    "noiSanXuat": "China",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "KO"
+  },
+  "anh": [
+    "https://cf.shopee.vn/file/e727498842f74786e8b27b305aaaa2b1",
+    "https://cf.shopee.vn/file/08dc8c99a431b4ba17d05896fdaf9d11",
+    "https://cf.shopee.vn/file/41b8225f363fa7e5469380f71bfaa52b"
+  ],
+  "kichThuoc": {
+    "nang": 200,
+    "rong": 12,
+    "dai": 12,
+    "cao": 12
+  },
+  "soSao": 5,
+  "luotBan": 0,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e77a6afad55d54920b474b2"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec68bfde691f44a38ad4148"
+  },
+  "tenSanPham": "SỮA FRISOLAC GOLD SỐ 2 400G",
+  "lowerCase": "sua frisolac gold so 2 400g",
+  "gia": 120,
+  "tiLeSale": 0,
+  "thuongHieu": "FRISO",
+  "moTa": "***Sữa Frisolac Gold 2 400g công nghệ Hà Lan ***\n*Sữa Frisolac Gold 2 400g thích hợp cho các bé từ 6 đến 12 tháng tuổi.\nSữa Frisolac Gold số 2 mới với công thức bảo vệ đột phá giúp bảo vệ trẻ ngay từ bên trong. Nhờ có: Synbiotics là sự kết hợp tối ưu của các Prebiotics GOS & FOS (Galacto-oligosaccharides & Fructo-oligosaccharides) theo tỉ lệ 9/1 và Probiotics Bifidobacterium BB-12® và L.casei (thế hệ vi khuẩn có lợi mới), giúp tăng cường vi khuẩn có lợi, đồng thời cung cấp thức ăn giúp vi khuẩn tốt hiện có trong đường ruột phát triển khỏe mạnh.\nSữa Frisolac Gold số 2 mới được sản xuất trên công nghệ tiên tiến LockNutri giúp bảo vệ chất dinh dưỡng tự nhiên không bị mất đi do nhiệt và vẫn giữ lại trạng thái tự nhiên nhất. Từ đó, các chất dinh dưỡng trong sữa, đặc biệt là đạm sữa sẽ dễ dàng tiêu hóa và hấp thu hơn đối với bé.",
+  "chiTietSanPham": {
+    "noiSanXuat": "Mỹ",
+    "cheDoBaoHanh": "12 tháng",
+    "quaTangKem": "Gấu bông"
+  },
+  "anh": [
+    "https://cf.shopee.vn/file/63b3d70db69dddb6119181cb3b220ce9",
+    "https://cf.shopee.vn/file/672312b6f901185053918f183d3eac99",
+    "https://cf.shopee.vn/file/9eb862d6e760a1400c7cb91198d0f168"
+  ],
+  "kichThuoc": {
+    "nang": 1200,
+    "rong": 20,
+    "dai": 20,
+    "cao": 10
+  },
+  "soSao": 0,
+  "luotBan": 0,
+  "conHang": true,
+  "trangThaiDuyet": true,
+  "trangThaiKhoa": false,
+  "trangThaiXoa": false,
+  "ID_DanhMuc": {
+    "$oid": "5e80e48173617522fcb0050a"
+  },
+  "ID_TinhThanh": 79,
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+}]

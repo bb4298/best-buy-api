@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "5e766acbbde33e3574a15103"
+  },
+  "tenCarousel": "Carousel 12",
+  "lowerCase": "carousel 12",
+  "anh": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5e80e7e973617522fcb00511"
+  },
+  "tenCarousel": "Tháng 2 vui vẻ",
+  "lowerCase": "thang 2 vui ve",
+  "anh": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5e80e7ef73617522fcb00512"
+  },
+  "tenCarousel": "banner 3",
+  "lowerCase": "banner 3",
+  "anh": "https://cf.shopee.vn/file/9c0b31d42a5f4b3bcf24e710d0615db2_xxhdpi",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5e8d11723ad5636bb8f7fd53"
+  },
+  "tenCarousel": "Banner1",
+  "lowerCase": "banner1",
+  "anh": "https://cf.shopee.vn/file/9c0b31d42a5f4b3bcf24e710d0615db2_xxhdpi",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5eb5765cab45f427ec35d3d5"
+  },
+  "tenCarousel": "Banner 3",
+  "lowerCase": "banner 3",
+  "anh": "https://cf.shopee.vn/file/36b109d4678391fe0feb5745611968f9_xxhdpi",
+  "trangThaiXoa": false,
+  "ID_BaiViet": "FE19B3E6F30C"
+},{
+  "_id": {
+    "$oid": "5eb57d04de4f67042c8ec9af"
+  },
+  "tenCarousel": "Carousel 12",
+  "lowerCase": "carousel 12",
+  "anh": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5eb57d07de4f67042c8ec9b0"
+  },
+  "tenCarousel": "Carousel 12",
+  "lowerCase": "carousel 12",
+  "anh": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5eb57d09de4f67042c8ec9b1"
+  },
+  "tenCarousel": "Carousel 12",
+  "lowerCase": "carousel 12",
+  "anh": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5eb57d0bde4f67042c8ec9b2"
+  },
+  "tenCarousel": "Banner 2",
+  "lowerCase": "banner 2",
+  "anh": "https://cf.shopee.vn/file/a7428887884345fb1da45862f5396527_xxhdpi",
+  "trangThaiXoa": false,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5eb57d10de4f67042c8ec9b3"
+  },
+  "tenCarousel": "Banner 1",
+  "lowerCase": "banner 1",
+  "anh": "https://cf.shopee.vn/file/9d85a237b89acb1bde0a954067a44745_xxhdpi",
+  "trangThaiXoa": false,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5eb57d12de4f67042c8ec9b4"
+  },
+  "tenCarousel": "Carousel 12",
+  "lowerCase": "carousel 12",
+  "anh": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+  "trangThaiXoa": true,
+  "ID_BaiViet": "A278AD3DB13F"
+},{
+  "_id": {
+    "$oid": "5ec082c164a3fb5ca119a9f4"
+  },
+  "tenCarousel": "Banner 4",
+  "lowerCase": "banner 4",
+  "anh": "https://cf.shopee.vn/file/f8d58f2264fabc6902fe5958d85181b1_xxhdpi",
+  "trangThaiXoa": false,
+  "ID_BaiViet": "FE19B3E6F30C"
+}]

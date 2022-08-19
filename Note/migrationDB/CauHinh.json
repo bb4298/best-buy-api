@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "5ec7cf29ff1c9118e40baa41"
+  },
+  "type": 0,
+  "tenBrand": "Bestbuy",
+  "slogan": "MUA SẮM VÀ BÁN HÀNG ONLINE ĐƠN GIẢN, NHANH CHÓNG VÀ AN TOÀN",
+  "ghiChu": "Địa chỉ:  Tầng 4, Pico Plaza, 20 Cộng Hòa, P.12, Q.Tân Bình, TP.HCM, Việt Nam. Tổng đài hỗ trợ: 19001221 - Email: quangnguyen.4298@gmail.com\n\nMã số doanh nghiệp: 0106773745 do Sở Kế hoạch & Đầu tư TP Hồ Chí Minhcấp lần đầu ngày 10/02/2015\n\n© 2015 - Bản quyền thuộc về Công ty TNHH Besbuy"
+},{
+  "_id": {
+    "$oid": "5ec7cf42ff1c9118e40baa42"
+  },
+  "tenMenu": "CSKH",
+  "lienKet": [
+    {
+      "id": "8d7eyr36758",
+      "tenLienKet": "Trung tâm trợ giúp",
+      "ID_BaiViet": "A278AD3DB13F"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ec7cf89ff1c9118e40baa44"
+  },
+  "tenMenu": "Về Bestbuy",
+  "lienKet": [
+    {
+      "id": "8d7eyr36754",
+      "tenLienKet": "Giới thiệu về Bestbuy",
+      "ID_BaiViet": "A278AD3DB13F"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ec7cf95ff1c9118e40baa45"
+  },
+  "tenMenu": "Tuyển dụng",
+  "lienKet": [
+    {
+      "id": "8d7eyr36759",
+      "tenLienKet": "Tuyển dụng tháng 5",
+      "ID_BaiViet": "A278AD3DB13F"
+    }
+  ]
+}]

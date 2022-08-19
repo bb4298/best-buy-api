@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "5ebee925e405db2b94279156"
+  },
+  "tenPhanLoai": "Đỏ",
+  "gia": 12000,
+  "soLuong": 20,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebee947e405db2b94279157"
+  },
+  "tenPhanLoai": "Vàng",
+  "gia": 10000,
+  "soLuong": 25,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebeec4e92dc7f6c282bea35"
+  },
+  "tenPhanLoai": "Tím",
+  "gia": 1200,
+  "soLuong": 0,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e762178bde33e3574a150f2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebefbc44bb8336f4caf75e2"
+  },
+  "tenPhanLoai": "1kg",
+  "gia": 100000,
+  "soLuong": 17,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ebe9c3e825e7268087ba542"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ebfbae96a04e743e82a10b0"
+  },
+  "tenPhanLoai": "2kg",
+  "gia": 180000,
+  "soLuong": 0,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ebe9c3e825e7268087ba542"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec090f764a3fb5ca119a9f6"
+  },
+  "tenPhanLoai": "Màu xanh",
+  "gia": 25000,
+  "soLuong": 5,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ebe3a8f4f433a0ad04974c2"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec091bb64a3fb5ca119a9f7"
+  },
+  "tenPhanLoai": "Lò nướng",
+  "gia": 1400000,
+  "soLuong": 500,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ebe39c04f433a0ad04974c1"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec095d364a3fb5ca119a9f8"
+  },
+  "tenPhanLoai": "Túi đỏ",
+  "gia": 230000,
+  "soLuong": 154,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e825e2c9addd11a882d499b"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec095e264a3fb5ca119a9f9"
+  },
+  "tenPhanLoai": "Túi xanh",
+  "gia": 160000,
+  "soLuong": 45,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e825e2c9addd11a882d499b"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec09f4b64a3fb5ca119a9fa"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 3500000,
+  "soLuong": 45,
+  "trangThaiXoa": true,
+  "ID_SanPham": {
+    "$oid": "5e820477c03a051990859b41"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec0a045054ec22760d530d7"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 1030000,
+  "soLuong": 453,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e822c4dc03a051990859b42"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec0a066054ec22760d530d8"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 3500000,
+  "soLuong": 32,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e822caac03a051990859b43"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec0a1f3054ec22760d530d9"
+  },
+  "tenPhanLoai": "Đỏ",
+  "gia": 1400000,
+  "soLuong": 452,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ebabbac3fe3a72b30e6ba94"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec0a212054ec22760d530da"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 450000,
+  "soLuong": 32,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e825e329addd11a882d499d"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec0a430054ec22760d530dc"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 130000,
+  "soLuong": 234,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ec0a40f054ec22760d530db"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec55b6026c8b430f4e42b3f"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 1200000,
+  "soLuong": 0,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5e820477c03a051990859b41"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+},{
+  "_id": {
+    "$oid": "5ec68c7ee691f44a38ad4149"
+  },
+  "tenPhanLoai": "OS",
+  "gia": 120,
+  "soLuong": 25,
+  "trangThaiXoa": false,
+  "ID_SanPham": {
+    "$oid": "5ec68bfde691f44a38ad4148"
+  },
+  "ID_ChuShop": {
+    "$oid": "5e7620a7bd74723574bbb813"
+  }
+}]

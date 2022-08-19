@@ -26,7 +26,7 @@ const khachHangController = require('../controllers/khachHang/khachHang.Controll
 const gioHangController = require('../controllers/khachHang/gioHang.Controller');
 const thanhToanController = require('../controllers/khachHang/thanhToan.Controller');
 
-const sanPhamTrangChuConttroller = require('./trangChu/sanPhamTrangChu.Conttroller');
+const sanPhamTrangChuConttroller = require('./trangChu1/sanPhamTrangChu.Controller');
 
 
 module.exports = {

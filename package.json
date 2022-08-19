@@ -36,10 +36,9 @@
     "request-image-size": "2.1.0",
     "short-id": "0.1.0-1",
     "socket.io": "2.3.0",
-    "xoauth2": "1.2.0",
-    "nodemon": "^2.0.2"
+    "xoauth2": "1.2.0"
   },
   "devDependencies": {
-   
+    "nodemon": "^2.0.2"
   }
 }

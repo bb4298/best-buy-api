@@ -43,7 +43,8 @@ if (process.env.NODE_ENV === 'production') {
 let DbUrl;
 if (process.env.NODE_ENV === 'development') { DbUrl = 'mongodb://localhost:27017'; } //mongodb://localhost:27017
 // if(process.env.NODE_ENV === 'production'){DbUrl = 'mongodb+srv://bb4298:quangdeptrai01@cluster0-eossp.mongodb.net/test'}
-if (process.env.NODE_ENV === 'production') { DbUrl = 'mongodb+srv://bb4298:quangdeptrai01@cluster0.waxmu.mongodb.net/?retryWrites=true&w=majority'; }
+if (process.env.NODE_ENV === 'production') { DbUrl = 'mongodb+srv://bb4298:quangdeptrai01@cluster0.waxmu.mongodb.net'; }
+
 
 /*Giao thức kết nối--------------------------------------------------------*/
 let protocol;
